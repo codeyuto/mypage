@@ -1,3 +1,7 @@
 body {
     background-color: #AFEEEE;
+    text-align: center;
+}
+ul{
+    list-style: none;
 }
